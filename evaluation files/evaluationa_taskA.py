@@ -1,4 +1,5 @@
 #Author: Alap Dhruva (400490512)
+# Group: 01
 
 import torch
 import matplotlib.pyplot as plt
